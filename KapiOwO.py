@@ -12,7 +12,7 @@ import threading
 FILENAME = "KapiOwO.exe"
 APP_NAME = "KapiOwOService"
 IMG_URL = "https://img.itch.zone/aW1hZ2UvMTA2MTI2Ni82MDc1NDc0LnBuZw==/original/nIID%2Bn.png"
-NYAW_URL = "https://github.com/andyyepes2009-wq/kapinyaw/raw/refs/heads/main/Nyaw-Original-_-FNF-Kapi-Nyaw-Sound-Effect-DJ-D322MW.wav"
+NYAW_URL = "https://github.com/andyyepes2009-wq/skid-weapon/raw/refs/heads/main/Nyaw-Original-_-FNF-Kapi-Nyaw-Sound-Effect-DJ-D322MW%20(2).wav"
 
 def set_persistence():
     try:
