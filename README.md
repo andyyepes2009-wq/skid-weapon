@@ -1,0 +1,1 @@
+I DO NOT CONDONE THE USE OF THESE FOR ANYTHING THAT ISNT LEARNING OR PRACTICING CODING, fah i deleted the readme by accident and messed up the repo with the "nyaw" sounds. credits to paperkitty for the character i referenced ig
