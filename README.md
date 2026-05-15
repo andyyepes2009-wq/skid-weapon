@@ -12,3 +12,4 @@ List of projects and functions
 - Kapirodent: remote access trojan
 - nvidia thing: big cool amalgamation of all of these into one little nuke tehee
 - kapinuke bcd wiper but gives a prompt where u can consent into being booted out of ur os
+- kapicutie: same thing as nvidia thing but fixed so its even more annoying
