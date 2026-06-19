@@ -13,3 +13,7 @@ List of projects and functions
 - nvidia thing: big cool amalgamation of all of these into one little nuke tehee
 - kapinuke bcd wiper but gives a prompt where u can consent into being booted out of ur os
 - kapicutie: same thing as nvidia thing but fixed so its even more annoying
+
+usage of turbo is cd ~/turbo
+to go to the dir where turbo is, usually /home/user/Downloads
+then do ./turbo IP PORT
